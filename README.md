@@ -1,5 +1,9 @@
 # Funzionalita dell'applicativo Fiscozen Chat
 
+You can also take a look at our demonstration:
+
+[![Watch the video](https://img.youtube.com/vi/2FVFS_bhwDM/hqdefault.jpg)](https://youtu.be/2FVFS_bhwDM)
+
 ### 🎯 Obiettivo
 L'applicativo permette di offrire un assistente AI orientato al contesto fiscale, con gestione utenti, configurazione centralizzata del chatbot e tracciamento storico delle conversazioni.
 
