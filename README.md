@@ -1,6 +1,4 @@
-# Funzionalita dell'applicativo Fiscozen Chat
-
-You can also take a look at our demonstration:
+# Fiscozen Chat
 
 [![Watch the video](https://img.youtube.com/vi/2FVFS_bhwDM/hqdefault.jpg)](https://youtu.be/2FVFS_bhwDM)
 
