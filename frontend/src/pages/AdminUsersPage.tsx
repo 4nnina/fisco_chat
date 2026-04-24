@@ -284,6 +284,7 @@ function AdminUsersPage() {
             <div>
               <label className="block text-sm font-semibold text-zinc-700 mb-1">Password</label>
               <input
+                type = 'password'
                 value={userForm.password}
                 onChange={(e) => setUserForm((prev) => ({ ...prev, password: e.target.value }))}
                 className="w-full border border-zinc-300 rounded-lg p-2 focus:ring focus:ring-[#d9d0ff]"

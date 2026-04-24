@@ -253,9 +253,9 @@ def saveUserChatJson(
 
         activeConversationId = (conversationId or "").strip()
         if newConversation:
-            activeConversationId = ""
+            activeConversationId = fallbackConversationId
 
-        if not activeConversationId:
+        elif not activeConversationId:
             if chats:
                 last = chats[-1]
                 lastConversationId = str(last.get("conversation_id") or "").strip()

@@ -1,0 +1,99 @@
+{
+  "username": "mario.rossi",
+  "created_at": "2026-04-24T18:41:49",
+  "updated_at": "2026-04-24T18:44:23",
+  "chats": [
+    {
+      "conversation_id": "conv-1777048909513",
+      "timestamp": "2026-04-24T18:41:49",
+      "model": "gpt-4o-mini",
+      "prompt": "ciao, come si fa una fattura?",
+      "response": "Ecco come creare una fattura con Fiscozen:\n\n1. **Avvio**: Inserisci una nuova fattura da questo link: **_https://app.fiscozen.it/app/fatture/nuova_**.\n2. **Dati anagrafici**: Aggiungi il Committente finale.\n3. **Dettagli prestazione**: Inserisci la descrizione e l'importo della prestazione.\n4. **Pagamento**: Seleziona il metodo di pagamento (IBAN, Satispay, PayPal).\n5. **Scadenza del pagamento**: Indica una data entro cui ricevere il pagamento (opzionale).\n6. **Marca da bollo**: Decidi se addebitare la marca da bollo (se applicabile).\n7. **Stato incasso**: Segna se la fattura è stata incassata o meno.\n8. **Creazione**: Salva la fattura.\n9. **Invio**: Invia la fattura al cliente.\n\nPer approfondimenti, consulta la guida su Fiscozen: **_https://www.fiscozen.it/come-fare-una-fattura/_**. Se preferisci un video, guardalo qui: **_https://www.youtube.com/watch?v=blmx58JFxSU&feature=youtu.be_**.",
+      "history": [
+        {
+          "role": "assistant",
+          "content": "Ciao! Sono il tuo assistente AI. Scrivimi una richiesta e ti rispondo subito."
+        },
+        {
+          "role": "user",
+          "content": "ciao, come si fa una fattura?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv-1777048909513",
+      "timestamp": "2026-04-24T18:42:39",
+      "model": "gpt-4o-mini",
+      "prompt": "e come si fa se la devo fare all'estero?",
+      "response": "Per emettere una fattura a un cliente estero, segui questi passaggi:\n\n1. **Avvio**: Inserisci una nuova fattura da questo link: **_https://app.fiscozen.it/app/fatture/nuova_**.\n2. **Dati anagrafici**: Aggiungi il Committente finale, specificando che è un cliente estero.\n3. **Dettagli prestazione**: Inserisci la descrizione e l'importo della prestazione.\n4. **Pagamento**: Seleziona il metodo di pagamento (IBAN, Satispay, PayPal).\n5. **Codice destinatario**: Usa il codice generico XXXXXXX per i clienti esteri.\n6. **Dati del cliente**: Inserisci i dati del cliente, come nome, indirizzo e, se disponibile, la Partita IVA.\n7. **Creazione**: Salva la fattura.\n8. **Invio**: Invia la copia PDF della fattura via email al cliente.\n\nRicorda di inviare la fattura elettronica entro 12 giorni dalla data di emissione per evitare sanzioni. Se hai bisogno di ulteriori dettagli, contatta il tuo commercialista.",
+      "history": [
+        {
+          "role": "assistant",
+          "content": "Ciao! Sono il tuo assistente AI. Scrivimi una richiesta e ti rispondo subito."
+        },
+        {
+          "role": "user",
+          "content": "ciao, come si fa una fattura?"
+        },
+        {
+          "role": "assistant",
+          "content": "Ecco come creare una fattura con Fiscozen:\n\n1. **Avvio**: Inserisci una nuova fattura da questo link: **_https://app.fiscozen.it/app/fatture/nuova_**.\n2. **Dati anagrafici**: Aggiungi il Committente finale.\n3. **Dettagli prestazione**: Inserisci la descrizione e l'importo della prestazione.\n4. **Pagamento**: Seleziona il metodo di pagamento (IBAN, Satispay, PayPal).\n5. **Scadenza del pagamento**: Indica una data entro cui ricevere il pagamento (opzionale).\n6. **Marca da bollo**: Decidi se addebitare la marca da bollo (se applicabile).\n7. **Stato incasso**: Segna se la fattura è stata incassata o meno.\n8. **Creazione**: Salva la fattura.\n9. **Invio**: Invia la fattura al cliente.\n\nPer approfondimenti, consulta la guida su Fiscozen: **_https://www.fiscozen.it/come-fare-una-fattura/_**. Se preferisci un video, guardalo qui: **_https://www.youtube.com/watch?v=blmx58JFxSU&feature=youtu.be_**."
+        },
+        {
+          "role": "user",
+          "content": "e come si fa se la devo fare all'estero?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv-1777048909513",
+      "timestamp": "2026-04-24T18:42:50",
+      "model": "gpt-4o-mini",
+      "prompt": "e in valuta non euro?",
+      "response": "Per emettere una fattura in valuta non euro, segui questi passaggi:\n\n1. **Avvio**: Inserisci una nuova fattura da questo link: **_https://app.fiscozen.it/app/fatture/nuova_**.\n2. **Dati anagrafici**: Aggiungi il Committente finale.\n3. **Dettagli prestazione**: Inserisci la descrizione e l'importo della prestazione.\n4. **Valuta**: Seleziona la valuta con cui ti hanno pagato (ad esempio, USD, GBP, ecc.).\n5. **Pagamento**: Seleziona il metodo di pagamento (IBAN, Satispay, PayPal).\n6. **Codice destinatario**: Usa il codice generico XXXXXXX per i clienti esteri.\n7. **Creazione**: Salva la fattura.\n8. **Invio**: Invia la copia PDF della fattura via email al cliente.\n\nAssicurati di indicare chiaramente la valuta e il tasso di cambio se necessario. Se hai ulteriori domande, contatta il tuo commercialista.",
+      "history": [
+        {
+          "role": "assistant",
+          "content": "Ciao! Sono il tuo assistente AI. Scrivimi una richiesta e ti rispondo subito."
+        },
+        {
+          "role": "user",
+          "content": "ciao, come si fa una fattura?"
+        },
+        {
+          "role": "assistant",
+          "content": "Ecco come creare una fattura con Fiscozen:\n\n1. **Avvio**: Inserisci una nuova fattura da questo link: **_https://app.fiscozen.it/app/fatture/nuova_**.\n2. **Dati anagrafici**: Aggiungi il Committente finale.\n3. **Dettagli prestazione**: Inserisci la descrizione e l'importo della prestazione.\n4. **Pagamento**: Seleziona il metodo di pagamento (IBAN, Satispay, PayPal).\n5. **Scadenza del pagamento**: Indica una data entro cui ricevere il pagamento (opzionale).\n6. **Marca da bollo**: Decidi se addebitare la marca da bollo (se applicabile).\n7. **Stato incasso**: Segna se la fattura è stata incassata o meno.\n8. **Creazione**: Salva la fattura.\n9. **Invio**: Invia la fattura al cliente.\n\nPer approfondimenti, consulta la guida su Fiscozen: **_https://www.fiscozen.it/come-fare-una-fattura/_**. Se preferisci un video, guardalo qui: **_https://www.youtube.com/watch?v=blmx58JFxSU&feature=youtu.be_**."
+        },
+        {
+          "role": "user",
+          "content": "e come si fa se la devo fare all'estero?"
+        },
+        {
+          "role": "assistant",
+          "content": "Per emettere una fattura a un cliente estero, segui questi passaggi:\n\n1. **Avvio**: Inserisci una nuova fattura da questo link: **_https://app.fiscozen.it/app/fatture/nuova_**.\n2. **Dati anagrafici**: Aggiungi il Committente finale, specificando che è un cliente estero.\n3. **Dettagli prestazione**: Inserisci la descrizione e l'importo della prestazione.\n4. **Pagamento**: Seleziona il metodo di pagamento (IBAN, Satispay, PayPal).\n5. **Codice destinatario**: Usa il codice generico XXXXXXX per i clienti esteri.\n6. **Dati del cliente**: Inserisci i dati del cliente, come nome, indirizzo e, se disponibile, la Partita IVA.\n7. **Creazione**: Salva la fattura.\n8. **Invio**: Invia la copia PDF della fattura via email al cliente.\n\nRicorda di inviare la fattura elettronica entro 12 giorni dalla data di emissione per evitare sanzioni. Se hai bisogno di ulteriori dettagli, contatta il tuo commercialista."
+        },
+        {
+          "role": "user",
+          "content": "e in valuta non euro?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv-1777049063533",
+      "timestamp": "2026-04-24T18:44:23",
+      "model": "gpt-4o-mini",
+      "prompt": "come funziona la detrazione fiscale?",
+      "response": "La detrazione fiscale è un importo che puoi sottrarre dalle tasse da pagare. Ecco come funziona:\n\n1. **Tipologia di reddito**: La detrazione si applica solo se hai altri redditi oltre a quello della tua Partita IVA. Ad esempio, redditi da lavoro dipendente o pensione.\n\n2. **Spese detraibili**: Puoi detrarre spese specifiche, come spese mediche, per istruzione o mutuo, solo se hai altri redditi.\n\n3. **Regime Forfettario**: Se sei in regime forfettario, non puoi detrarre spese personali. Le tasse sono già calcolate con un'imposta sostitutiva.\n\n4. **Regime Semplificato**: Se sei in regime semplificato, puoi sempre detrarre le spese personali, indipendentemente dai redditi.\n\n5. **Anno di riferimento**: Le spese possono essere detratte nell'anno in cui sono state sostenute. Il beneficio fiscale si vede l'anno successivo.\n\nPer ulteriori dettagli, contatta il tuo commercialista, Elena Bianchi.",
+      "history": [
+        {
+          "role": "assistant",
+          "content": "Nuova conversazione avviata. Come posso aiutarti?"
+        },
+        {
+          "role": "user",
+          "content": "come funziona la detrazione fiscale?"
+        }
+      ]
+    }
+  ]
+}
