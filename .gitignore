@@ -1,0 +1,102 @@
+# ==========================
+# Global
+# ==========================
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+log/
+*.pid
+*.seed
+*.pid.lock
+
+# Python virtualenv
+venv/
+env/
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Coverage / test
+.coverage
+.tox/
+.nox/
+coverage.xml
+coverage/
+htmlcov/
+pytestdebug.log
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# TEXT FILES
+result.txt
+cout.txt
+
+# ==========================
+# Backend (FastAPI)
+# ==========================
+# Databases — keep only backend/database/db.sqlite3
+*.db
+*.sqlite
+*.sqlite3
+!backend/database/db.sqlite3
+backend/FAST/university_schedules_stats
+backend/FAST/dataset/*
+backend/FAST/src/*
+
+!backend/FAST/src/main.py
+!backend/FAST/src/README.md
+!backend/FAST/dataset/README.md
+
+# Migrations
+migrations/
+alembic/
+alembic.ini
+
+# Uvicorn logs
+uvicorn.log
+
+# ==========================
+# Frontend (React + Vite + TypeScript)
+# ==========================
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.production.local
+frontend/.env.test.local
+
+# Build artifacts
+*.tsbuildinfo
+
+# ==========================
+# OS / Editor junk
+# ==========================
+.AppleDouble
+.LSOverride
+ehthumbs.db
+Desktop.ini
+*~
+
+# ==========================
+# End of file
+# ==========================
