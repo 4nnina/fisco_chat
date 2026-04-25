@@ -28,9 +28,9 @@ app.add_middleware(
 
 BASE_DIR = Path(__file__).resolve().parent
 CHAT_CONFIG_PATH = BASE_DIR / "chat_config.json"
-TONE_SOURCE_PATH = BASE_DIR / "../../Risorse_test/tone_of_voice.txt"
 PROMPTS_DIR = BASE_DIR / "prompts"
 CHAT_CONFIG_SNAPSHOT_PATH = PROMPTS_DIR / "chat-config-current.json"
+TONE_SOURCE_PATH = PROMPTS_DIR / "tone_of_voice.txt"
 USER_CHAT_ROOT_DIR = BASE_DIR / "database" / "chats"
 ALLOWED_REGIMI = {"forfettario", "semplificato"}
 ALLOWED_CASSE = {"INARCASSA", "ENPAP", "ENPAPI", "GS INPS"}
